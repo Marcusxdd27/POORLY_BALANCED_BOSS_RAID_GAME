@@ -1,0 +1,8 @@
+[
+    {"name": "Goblin", "class": "WeakMinion"},
+    {"name": "Hellhound", "class": "MediumMinion"},
+    {"name": "Death Knight", "class": "StrongMinion"},
+    {"name": "Saruman The Goblin King", "class": "EasyBoss"},
+    {"name": "Fenrir The Devourer", "class": "MediumBoss"},
+    {"name": "Odin The Undying", "class": "HardBoss"}
+]

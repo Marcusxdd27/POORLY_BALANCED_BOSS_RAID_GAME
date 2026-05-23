@@ -1,0 +1,9 @@
+[
+    {"name": "Artoria", "class": "Saber"},
+    {"name": "Emiya", "class": "Archer"},
+    {"name": "Cu Chulainn", "class": "Lancer"},
+    {"name": "Medusa", "class": "Rider"},
+    {"name": "Jeanne D' Arc", "class": "Caster"},
+    {"name": "Hassan", "class": "Assassin"},
+    {"name": "Heracles", "class": "Berserker"}
+]
